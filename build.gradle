@@ -1,4 +1,5 @@
 apply plugin: 'java'
+apply plugin: 'maven'
 
 group 'se.fearless.spaceship'
 version '0.1-SNAPSHOT'
